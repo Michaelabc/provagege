@@ -1,0 +1,8 @@
+sleep 1
+echo vamos copiar
+sudo cp -r /home/michael/Downloads /backup
+sudo cp -r /home/michael/Documentos /backup
+sudo cp -r /home/michael/Área\ de\ Trabalho /backup
+sudo cp -r /home/michael/Imagens /backup
+sleep 1
+echo finalizado

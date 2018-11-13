@@ -1,0 +1,7 @@
+sleep 1
+echo vamos baixar um arquivo
+sleep 1
+echo digite o caminho do arquivo
+read arquivo
+cd /home/michael/Downloads
+wget $arquivo
